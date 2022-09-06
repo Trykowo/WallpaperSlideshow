@@ -1,4 +1,4 @@
-package trykowo.wpp.wallpaperplugin;
+package wallpaperslideshow;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;

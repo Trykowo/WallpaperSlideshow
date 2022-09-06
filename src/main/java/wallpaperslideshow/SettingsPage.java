@@ -1,4 +1,4 @@
-package trykowo.wpp.wallpaperplugin;
+package wallpaperslideshow;
 
 import com.intellij.ide.util.PropertiesComponent;
 import com.intellij.openapi.fileChooser.FileChooserDescriptor;
